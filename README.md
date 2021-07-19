@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thadisinaDwarakreddy
+- 👋 Hi, I’m @Thadisina Dwarak reddy
 - 👀 I’m interested in ...Machine learning
 - 🌱 I’m currently learning ...web development
 - 💞️ I’m looking to collaborate on ...web development projects
